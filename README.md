@@ -28,7 +28,7 @@ Based on the project specifications, the following logic has been implemented:
 * **Runtime:** Node.js
 * **Framework:** Express.js
 * **Database:** MongoDB via Mongoose
-* **Authentication:** JWT (JSON Web Tokens) & OTP
+* **Authentication:**  OTP Generation.
 
 ## Project Structure
 ```text
