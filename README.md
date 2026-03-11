@@ -1,9 +1,9 @@
 # Chuks Kitchen API - Backend Implementation
 
-## 📌 Project Overview
+## Project Overview
 This is the backend REST API for **Chuks Kitchen**, a food delivery application. This project satisfies the requirements for the Backend Developer Internship Task, focusing on user authentication, food management, and order lifecycle tracking.
 
-## 🚀 Key Features & Case Scenarios
+## Key Features & Case Scenarios
 Based on the project specifications, the following logic has been implemented:
 
 ### 1. User Access & Registration (Requirement A)
@@ -24,13 +24,13 @@ Based on the project specifications, the following logic has been implemented:
     * `Cancelled`
 * **Cart Management:** Logic to handle item selection, quantity updates, and total price calculation.
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Runtime:** Node.js
 * **Framework:** Express.js
 * **Database:** MongoDB via Mongoose
 * **Authentication:** JWT (JSON Web Tokens) & OTP
 
-## 📂 Project Structure
+## Project Structure
 ```text
 config/         # Database connection settings
 models/         # Database Schemas (User, Food, Order, Cart)
